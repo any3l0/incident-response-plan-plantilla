@@ -7,7 +7,7 @@ COMPANY_NAME: '{{COMPANY_NAME}}'
 AUTHOR_NAME: '{{AUTHOR_NAME}}'
 
 # Email of plan author (e.g., contact@counteractive.net)
-AUTHOR_EMAIL: '{{AUTHOR_EMAIL}}'
+AUTHOR_EMAIL: 'Abgel Manuel Aragón'
 
 # Document control metadata (e.g., 1)
 REVISION_NUMBER: '{{REVISION_NUMBER}}'
